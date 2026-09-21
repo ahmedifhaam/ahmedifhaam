@@ -6,9 +6,7 @@ Visibility: PUBLIC
 Ahmed Ifhaam
 
 ## Professional headline
-Software Engineer | .NET | Angular | .NET MAUI
-
-> Current job title and employer require confirmation because the uploaded CVs identify Arcadea Group/LLC as the current role, while the career repository already contains a later/current AgCode entry.
+Consultant Senior Software Engineer
 
 ## Professional summary
 Software engineer with experience across backend, frontend, mobile application development, software architecture, and DevOps. Documented experience includes .NET, ASP.NET Core, Angular, .NET MAUI, Azure, SQL Server, DDD, CQRS, Clean Architecture, microservices, and CI/CD.
@@ -35,7 +33,6 @@ B.Sc. Hons in Management and Information Technology, University of Kelaniya, Fac
 - Phone: +94 77 6699609
 
 ## Confirmation required
-- Current employer/title
-- Arcadea end date
-- Preferred public location/contact details
-- Whether the full legal name should be displayed on the public CV
+- Current AgCode job title.
+- Exact May 2026 transition date if available.
+- Preferred public location/contact details.
