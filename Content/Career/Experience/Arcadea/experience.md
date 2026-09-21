@@ -3,10 +3,13 @@
 Visibility: NEEDS_REVIEW
 
 ## Employment
-- Title: Consultant Senior Software Engineer / Consultant Software Engineer
+- Title: Consultant Senior Software Engineer
 - Start: 2024-05
-- End: NEEDS_CONFIRMATION
-- Work context: Canada (Remote) appears in one CV version.
+- End: 2026-05
+- Work context: Parent company; Canada (Remote) appears in the uploaded CVs.
+
+## Transition
+After approximately two years with the parent company, Ahmed was absorbed into its subsidiary, AgCode. This represents a continuation of the employment relationship into the child company rather than a separate unrelated career move.
 
 ## Documented responsibilities and achievements
 - Collaborated with product managers to define technical requirements and develop solutions for complex problems.
@@ -25,6 +28,3 @@ Visibility: NEEDS_REVIEW
 - .NET
 - Backend APIs
 - Mobile application development
-
-## Notes
-The uploaded CVs disagree on the exact title. They also do not provide an end date. Do not present either point as settled until confirmed.
