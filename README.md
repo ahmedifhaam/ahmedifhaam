@@ -7,7 +7,7 @@ Software Engineer focused on .NET, Angular, mobile applications, backend systems
 The career source of truth and CV are maintained in the dedicated repository:
 
 - **[CV Repository](https://github.com/ahmedifhaam/ahmedifhaamcv)**
-- **[View CV](https://ahmedifhaam.github.io/ahmedifhaamcv/)**
+- **[View CV](https://ahmedifhaam.github.io/ahmedifhaam/)**
 
 ## Professional Snapshot
 
