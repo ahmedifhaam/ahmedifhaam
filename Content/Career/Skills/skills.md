@@ -1,0 +1,27 @@
+# Technical Skills
+
+Status: INITIAL_TEMPLATE
+
+## Languages
+NEEDS_CONFIRMATION
+
+## Backend
+NEEDS_CONFIRMATION
+
+## Frontend
+NEEDS_CONFIRMATION
+
+## Mobile
+NEEDS_CONFIRMATION
+
+## Databases
+NEEDS_CONFIRMATION
+
+## Cloud / DevOps
+NEEDS_CONFIRMATION
+
+## Architecture / Engineering Practices
+NEEDS_CONFIRMATION
+
+## AI / Data
+NEEDS_CONFIRMATION
