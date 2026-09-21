@@ -1,14 +1,5 @@
 # Skill: ATS Review
 
-Check that the CV:
+Check that the CV uses normal text, clear headings, conventional sections, readable dates, conventional employer/title relationships, natural keywords, and a one-column ATS-safe canonical layout.
 
-- uses normal text rather than text embedded in images
-- has clear headings
-- uses conventional section names
-- has readable dates and employer/title relationships
-- avoids complex tables for the canonical version
-- avoids decorative skill ratings
-- contains relevant keywords naturally
-- remains readable when parsed as plain text
-
-Do not keyword-stuff.
+Avoid complex tables, decorative skill ratings, and keyword stuffing.
