@@ -1,27 +1,59 @@
 # Technical Skills
 
-Status: INITIAL_TEMPLATE
+Visibility: PUBLIC — REVIEW BEFORE PUBLISHING
 
 ## Languages
-NEEDS_CONFIRMATION
+- C#
+- Java
+- JavaScript / TypeScript
 
 ## Backend
-NEEDS_CONFIRMATION
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- REST / Web API
+- Java Spring Boot
 
 ## Frontend
-NEEDS_CONFIRMATION
+- Angular
+- AngularJS
+- NgRx
+- RxJS
 
 ## Mobile
-NEEDS_CONFIRMATION
+- .NET MAUI
+- Android
+- DHIS2 Android
 
-## Databases
-NEEDS_CONFIRMATION
-
-## Cloud / DevOps
-NEEDS_CONFIRMATION
+## Databases / Data
+- SQL Server
+- T-SQL
+- Entity Framework Core
+- SSIS
+- SSDT
+- Azure Storage (Blob, Table)
 
 ## Architecture / Engineering Practices
-NEEDS_CONFIRMATION
+- Domain-Driven Design (DDD)
+- CQRS
+- Clean Architecture
+- MVC
+- Test-Driven Development (TDD)
+- Microservices
+- Reactive design
 
-## AI / Data
-NEEDS_CONFIRMATION
+## DevOps / Engineering Tools
+- Azure DevOps
+- Git
+- CI/CD
+- SonarQube
+
+## Identity / Security
+- IdentityServer4
+- OAuth
+- Just-in-Time provisioning
+- Federated User Provisioning
+- Always Encrypted
+
+## Notes
+This inventory is derived from the uploaded CVs. It does not assign proficiency levels and does not imply that every technology is currently used.
