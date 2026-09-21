@@ -88,6 +88,26 @@ Start with:
 - `AgentFiles/Templates/CV_TEMPLATE.md`
 - `Content/Career/README.md`
 
+## Evidence and truth policy
+
+Uploaded CVs and LinkedIn exports are evidence sources, not permission to invent or reconcile facts silently.
+
+When multiple documents disagree:
+- preserve the conflicting claims;
+- identify the conflict;
+- mark the affected field NEEDS_CONFIRMATION;
+- ask Ahmed to confirm before treating it as canonical.
+
+Agents may improve wording and structure, but they must not change the underlying meaning or add unsupported achievements, metrics, technologies, dates, titles, responsibilities, employers, or qualifications.
+
+Current repository content contains an explicit confirmation queue where the uploaded documents are insufficient to establish a single fact.
+
+## Source documents currently reviewed
+
+The initial career knowledge base was consolidated from the uploaded CV/LinkedIn documents supplied in this conversation. These include multiple CV versions with overlapping but sometimes differing titles and dates.
+
+The source documents support a career history covering Arcadea, Nagarro, Zone24x7, and HISP India, plus education, certifications, open-source contributions, and technical skills.
+
 ## Change discipline
 
 Every material career update should preserve a clear history through Git commits. Do not silently overwrite facts. Prefer small, focused changes.
