@@ -1,30 +1,100 @@
+<div align="center">
+
 # Ahmed Ifhaam
 
-Software Engineer focused on .NET, Angular, mobile applications, backend systems, and modern software architecture.
+### Software Engineer · Backend · Cloud · Mobile · Architecture
 
-## Career & CV
+Building reliable software across **.NET, Angular, mobile applications, APIs, and distributed systems**.
 
-The career source of truth and CV are maintained in the dedicated repository:
+<p>
+  <a href="https://github.com/ahmedifhaam"><img src="https://img.shields.io/badge/GitHub-ahmedifhaam-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://ahmedifhaam.github.io/ahmedifhaamcv/"><img src="https://img.shields.io/badge/CV-View-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+</p>
 
-- **[CV Repository](https://github.com/ahmedifhaam/ahmedifhaamcv)**
-- **[View CV](https://ahmedifhaam.github.io/ahmedifhaam/)**
+</div>
 
-## Professional Snapshot
+---
 
-- **Current:** Software Engineering — AgCode
-- **Previous:** Consultant Senior Software Engineer — Arcadea Group
-- **Previous:** Senior / Associate Staff Engineer — Nagarro
-- **Previous:** Senior Software Engineer / Software Engineer — Zone24x7
-- **Previous:** Consultant Software Engineer / Software Developer Intern — HISP India
+## 👋 About Me
 
-## Core Technologies
+I'm a **Software Engineer** focused on backend systems, application architecture, and full-stack development.
 
-C# · .NET / ASP.NET Core · .NET MAUI · Angular · TypeScript · Java · Spring Boot · REST APIs · EF Core · SQL Server · PostgreSQL · Azure DevOps · Microservices · DDD · CQRS · Clean Architecture
+My work spans:
 
-## Links
+- 🧩 **Backend & APIs** — C#, .NET, ASP.NET Core, REST, EF Core
+- 🌐 **Frontend** — Angular, TypeScript
+- 📱 **Mobile** — .NET MAUI, Android
+- ☁️ **Cloud & DevOps** — Azure DevOps, CI/CD, containers
+- 🏗️ **Architecture** — DDD, CQRS, Clean Architecture, Microservices
+- 🗄️ **Data** — SQL Server, PostgreSQL
+- 🤖 **Currently exploring** — AI engineering, RAG, agents, and local AI infrastructure
 
-- [GitHub](https://github.com/ahmedifhaam)
-- [CV](https://ahmedifhaam.github.io/ahmedifhaamcv/)
-- [CV Source Repository](https://github.com/ahmedifhaam/ahmedifhaamcv)
+## 🛠️ Technology Stack
 
-> This repository is intentionally kept as a lightweight GitHub profile/dashboard. Career facts, CV source content, and publishing assets live in **ahmedifhaamcv**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,android,postgres,mysql,docker,azure,git,github,linux&perline=7" alt="Technology stack"/>
+</p>
+
+## 🏗️ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Systems
+Designing APIs and business systems with **.NET / ASP.NET Core**, EF Core, PostgreSQL and SQL Server.
+
+</td>
+<td width="50%">
+
+### Application Architecture
+Applying **DDD, CQRS and Clean Architecture** where they provide practical value.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Mobile Applications
+Building cross-platform applications with **.NET MAUI** and Android.
+
+</td>
+<td width="50%">
+
+### AI & Infrastructure
+Exploring **LLM applications, RAG, AI agents, Docker, self-hosted services and homelab infrastructure**.
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedifhaam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedifhaam&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages"/>
+</p>
+
+## 🚀 Current Focus
+
+<div align="center">
+
+**Software Architecture** · **AI Engineering** · **Cloud & DevOps** · **Local AI** · **Continuous Learning**
+
+</div>
+
+## 🔗 Find Me
+
+<p align="center">
+  <a href="https://github.com/ahmedifhaam">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://ahmedifhaam.github.io/ahmedifhaamcv/">CV / Portfolio</a>
+</p>
+
+---
+
+<div align="center">
+
+*Building software, learning continuously, and occasionally breaking my homelab.*
+
+</div>
