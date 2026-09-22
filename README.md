@@ -2,40 +2,62 @@
 
 # Ahmed Ifhaam
 
-**Software Engineer · .NET · Cloud · Mobile · Architecture**
+**Software Engineer · Backend · Architecture · Mobile**
 
-Building backend systems, applications, and infrastructure with a focus on clean design and practical engineering.
+Building reliable software, improving existing systems, and turning complex requirements into maintainable applications.
 
-<p>
-  <a href="https://github.com/ahmedifhaam">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://ahmedifhaam.github.io/ahmedifhaamcv/">CV / Portfolio</a>
-</p>
+<a href="https://github.com/ahmedifhaam">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://ahmedifhaam.github.io/ahmedifhaamcv/">CV / Portfolio</a>
 
 </div>
 
 ---
 
-## About
+## What I Work On
 
-Software Engineer working across backend engineering, application architecture, mobile development, and DevOps.
-
-**Core areas**
-
-- Backend systems and REST APIs
-- .NET / ASP.NET Core
-- Angular and TypeScript
-- .NET MAUI / Android
-- PostgreSQL and SQL Server
-- DDD, CQRS and Clean Architecture
-- Docker, Azure DevOps and CI/CD
-- AI engineering, RAG and self-hosted infrastructure
-
-## Stack
+| Area | Focus |
+|---|---|
+| **Backend** | C# · .NET · ASP.NET Core · REST APIs · EF Core |
+| **Architecture** | DDD · CQRS · Clean Architecture · Microservices |
+| **Applications** | Angular · TypeScript · .NET MAUI · Android |
+| **Data** | PostgreSQL · SQL Server |
+| **Engineering** | Azure DevOps · CI/CD · Docker · Linux |
+| **AI & Infrastructure** | RAG · AI agents · local AI · self-hosted systems |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,android,postgres,docker,azure,git,github,linux&perline=7" height="42" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,android,postgres,docker,azure,git,github,linux&perline=7" height="40" alt="Technology stack"/>
 </p>
+
+## Engineering Focus
+
+I enjoy working on the parts of software where **correctness, architecture, and maintainability** matter.
+
+### Reliability & Data Integrity
+
+Worked on production workflows where correctness mattered beyond simply making a request succeed — including resolving a payroll data-loss issue, strengthening transaction boundaries, and preventing invalid deletion paths.
+
+### Architecture & Maintainability
+
+Refactored risky persistence and architectural patterns, including moving from delete-and-recreate saves to **upsert** and replacing direct `DbContext` usage inside provider layers with a repository abstraction.
+
+### Product Engineering
+
+Built the **Irrigation Scheduler** as a new capability, covering resource-tree APIs, scheduling forms, calculation logic, idempotent submission, calendar events, drag-to-reschedule interactions, and reusable UI components.
+
+### Engineering Quality
+
+Worked through SonarQube findings and existing code-quality debt, reducing cognitive complexity and correcting interface/implementation drift where it could create maintenance and correctness risks.
+
+## How I Like To Build
+
+**Understand the problem → design the boundary → build the capability → protect the data → simplify the system.**
+
+I care about more than closing a ticket. The goal is software that remains understandable and dependable after the original problem is gone.
+
+## Current Focus
+
+`Software Architecture` · `AI Engineering` · `Cloud & DevOps` · `Local AI`
 
 ## GitHub
 
@@ -48,16 +70,12 @@ Software Engineer working across backend engineering, application architecture, 
   </a>
 </p>
 
-## Current Focus
-
-`Software Architecture` · `AI Engineering` · `Cloud & DevOps` · `Local AI`
-
 ---
 
 <div align="center">
 
 <a href="https://github.com/ahmedifhaam">GitHub</a>
 &nbsp;·&nbsp;
-<a href="https://ahmedifhaam.github.io/ahmedifhaamcv/">CV</a>
+<a href="https://ahmedifhaam.github.io/ahmedifhaamcv/">CV / Portfolio</a>
 
 </div>
